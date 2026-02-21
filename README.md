@@ -15,8 +15,7 @@ Predicting breast cancer using a machine learning model
 
 Problem statement: To identify and create a machine learning model that predicts whether a patient has breast cancer. The goal is to find the accuracy score of the breast cancer prediction model with a random seed set to 0.
 
-Data: The data set is placed at: https://github.com/sandhyashinde06/repo/blob/main/dataset_ML.csv
-
+Data: The data set is placed at: https://github.com/sandhyashinde06/breastCancer_prediction_Python_ML/blob/main/Breast-Cancer-Data.csv 
 Evaluation: This prediction aims at gaining an accuracy score higher than 95.8% at predicting whether the patient has a malignant or benign tumor.
 
 Data extraction and evaluation: Since all the data is in the form of numbers, we would not have to keep converting categorical data types to numeric types. Also, as there are no missing values, we do not worry about missing computed data. In the heatmap, we observe that the mean fractal dimension, texture error, smoothness error, symmetry error, and fractal dimension errors influence the target variable, and that there are more samples of benign than malignant tumors.
